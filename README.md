@@ -97,23 +97,22 @@ Effective project planning ensures clarity, sets expectations, and provides a ro
    - What is risk management in the context of software projects? Outline the process of identifying, assessing, and mitigating risks.
 Risk management in software projects involves identifying potential risks that could impact project objectives, assessing their likelihood and impact, and implementing strategies to mitigate or manage them. Here's a concise outline of the process:
 
-1. Identifying Risks:
+- Identifying Risks:
    - Brainstorming: Engage stakeholders to identify potential risks based on project scope, requirements, technology, and external factors.
    - Checklists and Templates: Refer to industry standards or past projects to identify common risks.
    - Documentation Review: Analyze project documentation for risks related to scope, schedule, resources, technology, etc.
 
-2. Assessing Risks:
+- Assessing Risks:
    - Probability and Impact: Evaluate the likelihood of each risk occurring and the potential impact on project objectives (e.g., cost, schedule, quality).
    - Risk Rating: Prioritize risks based on their severity using qualitative (high, medium, low) or quantitative (numeric) scales.
 
-3. Mitigating Risks:
+- Mitigating Risks:
    - Risk Response Planning: Develop strategies to address identified risks:
      - Avoidance: Change project plans to eliminate the risk.
      - Mitigation: Reduce the probability or impact of the risk.
-     - Transfer: Shift the risk to a third party (e.g., through contracts or insurance).
-     - Acceptance: Acknowledge the risk without proactive action (if the impact is minimal).
+     - Transfer: Shift the risk to a third party (e.g., through contracts or insurance).     - Acceptance: Acknowledge the risk without proactive action (if the impact is minimal).
 
-4. Monitoring and Control:
+- Monitoring and Control:
    - Regular Reviews: Continuously monitor identified risks throughout the project lifecycle.
    - Updates: Update risk assessments as new risks emerge or current risks change in severity.
    - Response Adjustment: Adjust risk responses based on changes in project conditions or new information.
@@ -126,11 +125,11 @@ Effective risk management helps software projects proactively address potential 
   
 Resource management in software projects is crucial for ensuring that resources—such as human, financial, and technological—are allocated efficiently to achieve project goals. Here's why it's important and how project managers ensure effective resource allocation:
 
-1. Optimising Efficiency: Efficient resource management ensures that project tasks are completed on time and within budget, maximising productivity and minimising waste.
+- Optimising Efficiency: Efficient resource management ensures that project tasks are completed on time and within budget, maximising productivity and minimising waste.
    
-2. Cost Control: Proper allocation prevents overspending on unnecessary resources and helps in budget adherence throughout the project lifecycle.
+- Cost Control: Proper allocation prevents overspending on unnecessary resources and helps in budget adherence throughout the project lifecycle.
 
-3. Risk Mitigation: Effective resource planning mitigates risks related to resource shortages, conflicts, or underutilization, thereby maintaining project continuity.
+- Risk Mitigation: Effective resource planning mitigates risks related to resource shortages, conflicts, or underutilization, thereby maintaining project continuity.
 
 Project managers ensure efficient resource allocation through:
    
@@ -150,17 +149,17 @@ By managing resources effectively, project managers can enhance project outcomes
 
 Quality management in software projects focuses on ensuring that the software product meets the required standards and satisfies user expectations. Here's how it plays a crucial role:
 
-1. Practices and Standards:
+- Practices and Standards:
    - Testing: Rigorous testing practices, including unit testing, integration testing, and system testing, are employed to identify and fix bugs or issues.
    - Code Reviews: Peer reviews of code help catch errors early and ensure adherence to coding standards.
    - Quality Assurance (QA): QA processes involve systematic monitoring and evaluation of software development processes to ensure they meet predefined quality criteria.
    - Continuous Integration and Deployment (CI/CD): Automation tools for CI/CD help maintain code quality by ensuring that changes are tested and integrated smoothly into the software.
 
-2. Standards and Guidelines:
+- Standards and Guidelines:
    - Adherence to industry standards such as ISO/IEC 25010 (Software Quality Model) and frameworks like CMMI (Capability Maturity Model Integration) ensures that the software meets recognized quality benchmarks.
    - Following best practices in software development methodologies like Agile or DevOps promotes iterative improvements and feedback loops, enhancing software quality over time.
 
-3. User Feedback and Validation:
+- User Feedback and Validation:
    - Soliciting user feedback through beta testing, usability testing, and user acceptance testing (UAT) ensures that the software meets user needs and expectations.
    - Continuous validation against user requirements and expectations helps in refining the software and addressing potential quality issues early in the development lifecycle.
 
@@ -171,23 +170,23 @@ By implementing these practices and adhering to standards, software projects can
 
 Project managers monitor and control the progress of a software project through various methods to ensure it stays on track. Here are some key approaches, KPIs, and tools used for monitoring and controlling:
 
-1. Progress Tracking:
+- Progress Tracking:
    - Task Management Tools: Software like Jira, Trello, or Asana tracks tasks, assigns responsibilities, and monitors progress in real-time.
    - Gantt Charts: Tools like Microsoft Project or GanttProject visually represent project tasks, timelines, and dependencies.
    - Daily Stand-ups: Regular meetings where team members discuss their progress, challenges, and upcoming tasks.
 
-2. Key Performance Indicators (KPIs):
+- Key Performance Indicators (KPIs):
    - Budget Variance: Monitoring the variance between planned and actual project costs.
    - Schedule Variance: Tracking deviations from the planned project schedule.
    - Resource Utilisation: Evaluating how effectively resources like time, personnel, and equipment are being used.
    - Defect Density: Measuring the number of defects found per size of the software module.
    - Customer Satisfaction: Assessing user satisfaction through surveys or feedback.
 
-3. Risk Management:
+- Risk Management:
    - Risk Register: Maintaining a register that identifies, assesses, and plans responses to project risks.
    - Risk Impact and Probability Matrix: Assessing the severity and likelihood of risks occurring to prioritise mitigation efforts.
 
-4. Quality Assurance:
+- Quality Assurance:
    - Testing Coverage: Tracking the percentage of code covered by tests to ensure comprehensive testing.
    - Defect Resolution Rate: Monitoring the rate at which defects are identified and resolved during testing phases.
 
